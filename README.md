@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/albocoq/albocoq/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/albocoq/albocoq/snake.yml" alt="Snake animation" />
 
 ###
 
