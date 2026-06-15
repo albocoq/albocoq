@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">💜 Passionate web developer, I love minimalist design.<br><br>🎓 A student at 42 Málaga, I specialize in Next.js, TypeScript, React and Astro. Always on the lookout for optimization and innovation.<br><br>🌍 Based in Málaga<br><br>🚀Actually working in https://thallein.com as the Head of Front-End development</p>
+<p align="left">Passionate Software Developer | Student at 42 Málaga (C/C++) | Front-End Specialist (Next.js/React). Always building and optimizing. 🌍 Based in Málaga.</p>
 
 ###
 
