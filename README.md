@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">Passionate Software Developer | Student at 42 Málaga (C/C++) | Front-End Specialist (Next.js/React). Always building and optimizing. 🌍 Based in Málaga.</p>
+<p align="left">Passionate Software Developer | Student at 42 Málaga (C/C++) | Front-End Specialist (Next.js/React). <br/> <br/> Always building and optimizing. <br/> <br/> 🌍 Based in Málaga.</p>
 
 ###
 
